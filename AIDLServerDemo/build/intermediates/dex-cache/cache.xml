@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-642810ae6753d1a16ae9a9a2455ec662aa673c05.jar" />
+    </item>
+    <item
+        jar="/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/pre-dexed/debug/classes-dc47be29d68a8e9f85e98e9439f94070efb4e8a5.jar" />
+    </item>
+    <item
+        jar="/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/pre-dexed/debug/classes-9237aa5332ff7b33677dec5f4778c9fb5cb96326.jar" />
+    </item>
+    <item
+        jar="/Users/hahong/Downloads/androidsdk/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-5612af680d1d0224b4428282a9c525fb91b8384b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/classes/debug
+/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-5612af680d1d0224b4428282a9c525fb91b8384b.jar
+/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-642810ae6753d1a16ae9a9a2455ec662aa673c05.jar
+/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/pre-dexed/debug/classes-9237aa5332ff7b33677dec5f4778c9fb5cb96326.jar
+/Users/hahong/Desktop/android/AndroidCodes/BindService/AIDLServerDemo/app/build/intermediates/pre-dexed/debug/classes-dc47be29d68a8e9f85e98e9439f94070efb4e8a5.jar
